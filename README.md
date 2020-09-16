@@ -1,6 +1,6 @@
 # RTR105
 ## 16.09.2020.
-firefox & - atver firefox <br>
+firefox & - atver firefox<br>
 uname / uname -a - parāda sistēmas info<br>
 echo $0 - parāda kādu shell izmanto<br>
 whoami - kurš lietotājs<br>
